@@ -1,0 +1,15 @@
+religion = catholic
+is_city = yes
+add_core = HOL
+owner = HOL
+culture = dutch
+hre = yes
+controller = HOL
+discovered_by = western
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = muslim
+base_tax = 5
+base_manpower = 2
+base_production = 5
+trade_goods = naval_supplies

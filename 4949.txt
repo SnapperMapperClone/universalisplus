@@ -1,0 +1,18 @@
+add_core = ENG
+discovered_by = western
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = muslim
+owner = ENG
+culture = english
+religion = catholic
+controller = ENG
+is_city = yes
+latent_trade_goods = { 
+	coal 
+}
+base_tax = 4
+base_manpower = 2
+base_production = 4
+add_core = NOL
+trade_goods = wool
