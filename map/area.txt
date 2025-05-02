@@ -309,7 +309,7 @@ pyrenees_area = { #4
 }
 
 languedoc_area = { #5
-	200 2753 4391 4695 196
+	200 2753 4391 4695 196 4957
 }
 
 bourgogne_area = { #3
@@ -327,7 +327,7 @@ massif_central_area = { #3
 }
 
 savoy_dauphine_area = { #3 Savoy and Dauphiné, Upper Burgundy 
-	203 204 205 4719
+	203 204 205 4719 4958
 }
 
 lorraine_area = { #4
@@ -335,7 +335,7 @@ lorraine_area = { #4
 }
 
 picardy_area = { #4
-	87 88 89 1743
+	87 88 89 1743 4959
 }
 
 ile_de_france_area = { #4
@@ -364,11 +364,11 @@ wallonia_area = { #4
 }
 
 holland_area = { #4
-	96 97 98 4383
+	96 97 98 4383 4961
 }
 
 flanders_area = { #3
-	90 1865 4769
+	90 1865 4769 4956
 }
 
 frisia_area = { #5
@@ -377,7 +377,7 @@ frisia_area = { #5
 
 brabant_area = { #3
 	color = { 118 193 153 }
-	92 1744 2974
+	92 1744 2974 4960
 }
 
 north_brabant_area = { #3
@@ -557,7 +557,7 @@ wales_area = { #4
 }
 
 scottish_marches_area = { #4
-	246 247 244 4375
+	246 247 244 4375 4962
 }
 
 yorkshire_area = { #4
@@ -565,7 +565,7 @@ yorkshire_area = { #4
 }
 
 west_midlands_area = { #3
-	239 240 4372
+	239 240 4372 4963
 }
 
 east_midlands_area = { #3
@@ -577,11 +577,11 @@ wessex_area = { #5
 }
 
 home_counties_area = { #4
-	235 236 237 4371 
+	235 236 237 4371 4964
 }
 
 east_anglia_area = { #3
-	238 1860 4370
+	238 1860 4370 4965
 }
 
 ########################################
